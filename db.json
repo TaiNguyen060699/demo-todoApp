@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Front-end develop",
+      "day": "Nov 16h at 9:00am",
+      "reminder": true
+    },
+    {
+      "text": "Java develop",
+      "day": "Nov 16h at 9:00am",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Back-end develop",
+      "day": "Nov 17th at 19:00pm",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
